@@ -4,12 +4,12 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>service-discovery-server</groupId>
-	<artifactId>micro-service-1</artifactId>
+	<groupId>cloud-config-server</groupId>
+	<artifactId>cloud-config-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>micro-service-1</name>
+	<name>cloud-config-server</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
